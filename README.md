@@ -1,8 +1,8 @@
 # Geometry Processing — Registration
 
-> **To get started:** Clone this repository then issue
+> **To get started:** Clone (**do not fork publicly**) this repository
 > 
->     git clone --recursive http://github.com/[username]/geometry-processing-registration.git
+>     git clone --recursive https://github.com/odedstein/fs-2024-csci-599-exercise-3.git
 >
 
 ## Installation, Layout, and Compilation
